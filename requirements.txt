@@ -1,0 +1,6 @@
+praw
+nltk
+textblob
+matplotlib
+wordcloud
+pandas
