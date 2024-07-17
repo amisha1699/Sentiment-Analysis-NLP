@@ -22,7 +22,8 @@ Additionally a twitter/reddit developer account is required. The twitter API is 
 
 ## Usage
 1. Clone the repository:
-   ```git clone https://github.com/your-username/reddit-sentiment-analysis.git
+   ```
+   git clone https://github.com/your-username/reddit-sentiment-analysis.git
    cd reddit-sentiment-analysis
    ```
 
